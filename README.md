@@ -4,4 +4,4 @@
 #### 0624062 鄭捷予
 #### 0624088 張采崴
 
-[參考影片:![](smart-socket-10.jpg=80%x)](https://youtu.be/nFEY_k_2zxQ)
+[參考影片:![意示圖](智慧插座.jpg)](https://youtu.be/nFEY_k_2zxQ)
