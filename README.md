@@ -6,4 +6,4 @@
 
 [參考影片:(https://tutorials.webduino.io/images/zh-tw/docs/useful/example/smart-socket-10.jpg)](https://youtu.be/nFEY_k_2zxQ)
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[參考影片:[Everything Is AWESOME](https://tutorials.webduino.io/images/zh-tw/docs/useful/example/smart-socket-10.jpg)](https://youtu.be/nFEY_k_2zxQ)
