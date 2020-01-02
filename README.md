@@ -6,7 +6,7 @@
 
 [![108-1_0624088微學分期末影片](封面2.jpg)](https://youtu.be/2mioioDZwgY)
 
-![意示圖](智慧插座.jpg)](https://youtu.be/nFEY_k_2zxQ)
+[![意示圖](智慧插座.jpg)](https://youtu.be/nFEY_k_2zxQ)
 
 ### 目的:
 做出一個能夠被聲控的智慧插座，只要喊開或關就可以控制插頭是否通電。
